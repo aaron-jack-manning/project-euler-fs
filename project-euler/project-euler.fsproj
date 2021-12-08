@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <RootNamespace>project_euler</RootNamespace>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="Problem1.fs" />
+    <Compile Include="Problem2.fs" />
+    <Compile Include="Problem3.fs" />
+    <Compile Include="Problem4.fs" />
+    <Compile Include="Problem5.fs" />
+    <Compile Include="Problem6.fs" />
+    <Compile Include="Problem7.fs" />
+    <Compile Include="Problem8.fs" />
+    <Compile Include="Problem9.fs" />
+    <Compile Include="Problem10.fs" />
+    <Compile Include="Problem13.fs" />
+    <Compile Include="Problem14.fs" />
+    <Compile Include="Problem19.fs" />
+    <Compile Include="Problem20.fs" />
+    <Compile Include="Problem22.fs" />
+    <Compile Include="Problem25.fs" />
+    <Compile Include="Problem27.fs" />
+    <Compile Include="Problem28.fs" />
+    <Compile Include="Problem37.fs" />
+    <Compile Include="Problem48.fs" />
+    <Compile Include="Problem52.fs" />
+    <Compile Include="Problem53.fs" />
+    <Compile Include="Problem92.fs" />
+    <Compile Include="Problem97.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+</Project>

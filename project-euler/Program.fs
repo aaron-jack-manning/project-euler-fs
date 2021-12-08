@@ -1,0 +1,1 @@
+﻿printfn "To run any solution, call Problem#.solve and display the result."
