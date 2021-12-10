@@ -15,6 +15,7 @@
     <Compile Include="Problem008.fs" />
     <Compile Include="Problem009.fs" />
     <Compile Include="Problem010.fs" />
+    <Compile Include="Problem012.fs" />
     <Compile Include="Problem013.fs" />
     <Compile Include="Problem014.fs" />
     <Compile Include="Problem019.fs" />
@@ -23,6 +24,7 @@
     <Compile Include="Problem025.fs" />
     <Compile Include="Problem027.fs" />
     <Compile Include="Problem028.fs" />
+    <Compile Include="Problem035.fs" />
     <Compile Include="Problem037.fs" />
     <Compile Include="Problem048.fs" />
     <Compile Include="Problem052.fs" />
