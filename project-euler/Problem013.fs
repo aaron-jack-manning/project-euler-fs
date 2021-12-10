@@ -1,7 +1,8 @@
-module Problem13
+module Problem013
 
+// The original list of 100, 50 digit numbers
 let numbers =
-    [|
+    [
         37107287533902102798797998220837590246510135740250I;
         46376937677490009712648124896970078050417018260538I;
         74324986199524741059474233309513058123726617309629I;
@@ -102,15 +103,17 @@ let numbers =
         72107838435069186155435662884062257473692284509516I;
         20849603980134001723930671666823555245252804609722I;
         53503534226472524250874054075591789781264330331690I;
-    |]
+    ]
 
-let rec decomposeToDigits number =
+// Convert a number to a list of its digits in reverse by removing the last digit and prepending it to a list
+let rec asDigitList number =
     if number = 0I then
         []
     else
-        let lastDigit = number % 10I
-        List.append (decomposeToDigits ((number - lastDigit) / 10I)) [lastDigit]
+        let lastdigit = number % 10I
+        lastdigit :: asDigitList ((number - lastdigit) / 10I)
 
+// Takes a list of digits and converts them to a number.
 let rec recombineToNumber digits =
     digits
     |> List.rev
@@ -119,6 +122,6 @@ let rec recombineToNumber digits =
 
 let solve =
     (numbers
-    |> Array.sum
-    |> decomposeToDigits).[0..9]
+    |> List.sum
+    |> asDigitList).[0..9]
     |> recombineToNumber

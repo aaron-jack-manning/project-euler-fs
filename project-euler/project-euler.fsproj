@@ -5,30 +5,30 @@
     <RootNamespace>project_euler</RootNamespace>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Problem1.fs" />
-    <Compile Include="Problem2.fs" />
-    <Compile Include="Problem3.fs" />
-    <Compile Include="Problem4.fs" />
-    <Compile Include="Problem5.fs" />
-    <Compile Include="Problem6.fs" />
-    <Compile Include="Problem7.fs" />
-    <Compile Include="Problem8.fs" />
-    <Compile Include="Problem9.fs" />
-    <Compile Include="Problem10.fs" />
-    <Compile Include="Problem13.fs" />
-    <Compile Include="Problem14.fs" />
-    <Compile Include="Problem19.fs" />
-    <Compile Include="Problem20.fs" />
-    <Compile Include="Problem22.fs" />
-    <Compile Include="Problem25.fs" />
-    <Compile Include="Problem27.fs" />
-    <Compile Include="Problem28.fs" />
-    <Compile Include="Problem37.fs" />
-    <Compile Include="Problem48.fs" />
-    <Compile Include="Problem52.fs" />
-    <Compile Include="Problem53.fs" />
-    <Compile Include="Problem92.fs" />
-    <Compile Include="Problem97.fs" />
+    <Compile Include="Problem001.fs" />
+    <Compile Include="Problem002.fs" />
+    <Compile Include="Problem003.fs" />
+    <Compile Include="Problem004.fs" />
+    <Compile Include="Problem005.fs" />
+    <Compile Include="Problem006.fs" />
+    <Compile Include="Problem007.fs" />
+    <Compile Include="Problem008.fs" />
+    <Compile Include="Problem009.fs" />
+    <Compile Include="Problem010.fs" />
+    <Compile Include="Problem013.fs" />
+    <Compile Include="Problem014.fs" />
+    <Compile Include="Problem019.fs" />
+    <Compile Include="Problem020.fs" />
+    <Compile Include="Problem022.fs" />
+    <Compile Include="Problem025.fs" />
+    <Compile Include="Problem027.fs" />
+    <Compile Include="Problem028.fs" />
+    <Compile Include="Problem037.fs" />
+    <Compile Include="Problem048.fs" />
+    <Compile Include="Problem052.fs" />
+    <Compile Include="Problem053.fs" />
+    <Compile Include="Problem092.fs" />
+    <Compile Include="Problem097.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 </Project>

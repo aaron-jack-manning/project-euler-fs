@@ -24,3 +24,29 @@ C:\Users\aaron\Desktop\project-euler-fs\project-euler\obj\Debug\net6.0\project-e
 C:\Users\aaron\Desktop\project-euler-fs\project-euler\obj\Debug\net6.0\project-euler.dll
 C:\Users\aaron\Desktop\project-euler-fs\project-euler\obj\Debug\net6.0\project-euler.pdb
 C:\Users\aaron\Desktop\project-euler-fs\project-euler\obj\Debug\net6.0\project-euler.genruntimeconfig.cache
+C:\Users\aaron\My Drive\Side Projects\Project Files\Programming Projects\Project Euler (F#)\project-euler\bin\Debug\net6.0\project-euler.exe
+C:\Users\aaron\My Drive\Side Projects\Project Files\Programming Projects\Project Euler (F#)\project-euler\bin\Debug\net6.0\project-euler.deps.json
+C:\Users\aaron\My Drive\Side Projects\Project Files\Programming Projects\Project Euler (F#)\project-euler\bin\Debug\net6.0\project-euler.runtimeconfig.json
+C:\Users\aaron\My Drive\Side Projects\Project Files\Programming Projects\Project Euler (F#)\project-euler\bin\Debug\net6.0\project-euler.dll
+C:\Users\aaron\My Drive\Side Projects\Project Files\Programming Projects\Project Euler (F#)\project-euler\bin\Debug\net6.0\project-euler.pdb
+C:\Users\aaron\My Drive\Side Projects\Project Files\Programming Projects\Project Euler (F#)\project-euler\bin\Debug\net6.0\FSharp.Core.dll
+C:\Users\aaron\My Drive\Side Projects\Project Files\Programming Projects\Project Euler (F#)\project-euler\bin\Debug\net6.0\cs\FSharp.Core.resources.dll
+C:\Users\aaron\My Drive\Side Projects\Project Files\Programming Projects\Project Euler (F#)\project-euler\bin\Debug\net6.0\de\FSharp.Core.resources.dll
+C:\Users\aaron\My Drive\Side Projects\Project Files\Programming Projects\Project Euler (F#)\project-euler\bin\Debug\net6.0\es\FSharp.Core.resources.dll
+C:\Users\aaron\My Drive\Side Projects\Project Files\Programming Projects\Project Euler (F#)\project-euler\bin\Debug\net6.0\fr\FSharp.Core.resources.dll
+C:\Users\aaron\My Drive\Side Projects\Project Files\Programming Projects\Project Euler (F#)\project-euler\bin\Debug\net6.0\it\FSharp.Core.resources.dll
+C:\Users\aaron\My Drive\Side Projects\Project Files\Programming Projects\Project Euler (F#)\project-euler\bin\Debug\net6.0\ja\FSharp.Core.resources.dll
+C:\Users\aaron\My Drive\Side Projects\Project Files\Programming Projects\Project Euler (F#)\project-euler\bin\Debug\net6.0\ko\FSharp.Core.resources.dll
+C:\Users\aaron\My Drive\Side Projects\Project Files\Programming Projects\Project Euler (F#)\project-euler\bin\Debug\net6.0\pl\FSharp.Core.resources.dll
+C:\Users\aaron\My Drive\Side Projects\Project Files\Programming Projects\Project Euler (F#)\project-euler\bin\Debug\net6.0\pt-BR\FSharp.Core.resources.dll
+C:\Users\aaron\My Drive\Side Projects\Project Files\Programming Projects\Project Euler (F#)\project-euler\bin\Debug\net6.0\ru\FSharp.Core.resources.dll
+C:\Users\aaron\My Drive\Side Projects\Project Files\Programming Projects\Project Euler (F#)\project-euler\bin\Debug\net6.0\tr\FSharp.Core.resources.dll
+C:\Users\aaron\My Drive\Side Projects\Project Files\Programming Projects\Project Euler (F#)\project-euler\bin\Debug\net6.0\zh-Hans\FSharp.Core.resources.dll
+C:\Users\aaron\My Drive\Side Projects\Project Files\Programming Projects\Project Euler (F#)\project-euler\bin\Debug\net6.0\zh-Hant\FSharp.Core.resources.dll
+C:\Users\aaron\My Drive\Side Projects\Project Files\Programming Projects\Project Euler (F#)\project-euler\obj\Debug\net6.0\project-euler.fsproj.AssemblyReference.cache
+C:\Users\aaron\My Drive\Side Projects\Project Files\Programming Projects\Project Euler (F#)\project-euler\obj\Debug\net6.0\project-euler.AssemblyInfoInputs.cache
+C:\Users\aaron\My Drive\Side Projects\Project Files\Programming Projects\Project Euler (F#)\project-euler\obj\Debug\net6.0\project-euler.AssemblyInfo.fs
+C:\Users\aaron\My Drive\Side Projects\Project Files\Programming Projects\Project Euler (F#)\project-euler\obj\Debug\net6.0\project-euler.fsproj.CopyComplete
+C:\Users\aaron\My Drive\Side Projects\Project Files\Programming Projects\Project Euler (F#)\project-euler\obj\Debug\net6.0\project-euler.dll
+C:\Users\aaron\My Drive\Side Projects\Project Files\Programming Projects\Project Euler (F#)\project-euler\obj\Debug\net6.0\project-euler.pdb
+C:\Users\aaron\My Drive\Side Projects\Project Files\Programming Projects\Project Euler (F#)\project-euler\obj\Debug\net6.0\project-euler.genruntimeconfig.cache

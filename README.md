@@ -1,7 +1,9 @@
 # Project Euler F#
 
-My ongoing project to document solutions to the first 100 problems of Project Euler in an efficient, idiomatic F# way using, only language features and the standard library.
+This repository is a collection of solutions to what will be the first 100 problems from Project Euler. The aim of this repository is to act as a resource for people learning functional programming through F#, who come from a background in imperative programming, to show off how problems are solved differently when using the different tool of a functional language.
 
-Note that many solutions I have put here are a work in progress, and will be improved over time to develop simpler code to do the same thing.
+As such, I have aimed to stick to idiomatic F# for the solutions, and therefore avoided mutable variables, refs, and arrays, except in the few instances where they make for the most readable solution I could come up with, or where they are performance critical.
 
-My ultimate goal is to have this repository be a tool to help programmers learn the great language of F#. It is however still a work in progress.
+I've created this because after switching from mainly programming in imperative and object oriented languages to functional languages, my immediate instincts were to write code in as imperative of a way as possible, using things like mutable variables, loops and if statements without their else branches. However, after making a concerted effort to write code in a functional way, and learning more about functional data structures and algorithms, I found myself to be a more productive programmer, writing easier to read and maintain code. In my opinion the easiest way to share that benefit, is just to show off that better way of doing things. Join the functional programmers cult and never do a desk check again, never put a million debugging statements in your code to track the value of a variable at each point, never see a null pointer exception, and enjoy the luxury of being able to read code you wrote long ago and just understand what it does because it is written in a declarative way :)
+
+Obviously this is a work in progress, with many problems not incomplete and thus not listed here, and some with solutions that I aim to improve. However, the end goal is to have 100 well documented solutions with relatively simple and efficient code in a fully functional style.

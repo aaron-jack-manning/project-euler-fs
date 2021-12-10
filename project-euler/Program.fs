@@ -1,1 +1,1 @@
-﻿printfn "To run any solution, call Problem#.solve and display the result."
+﻿printfn "To run any solution, call Problem___.solve and display the result."

@@ -1,4 +1,4 @@
-module Problem3
+module Problem003
 
 // Finds the smallest prime factor of a number by trial division.
 let rec leastPrimeFactor (test : int64) (number : int64) : int64 =
